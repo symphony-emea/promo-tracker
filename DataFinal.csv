@@ -10787,36 +10787,21 @@ Number,Line Type,Plan Type,Data Type,Promo Type,Model,Promo Value,Brand,Week,Dat
 207,New Line ,Airtime Plan ,Data ,Free Subscription ,Samsung Galaxy Z Flip3,0,Samsung,W14,03-04-2023,Vodafone,Vodafone
 208,New Line ,Airtime Plan ,Data ,Cashback,Samsung Galaxy Z Flip3,0,Samsung,W14,03-04-2023,Vodafone,Vodafone
 209,New Line ,Airtime Plan ,Data ,Trade-in Bump-up,Samsung Galaxy Z Flip3,0,Samsung,W14,03-04-2023,Vodafone,Vodafone
-210,New Line ,Phone Plan Amount,NULL,NULL,"Samsung 
-Galaxy Z Flip4",0,Samsung,W14,03-04-2023,Vodafone,Vodafone
-211,New Line ,Airtime Plan ,Unlimited,Bundle ,"Samsung 
-Galaxy Z Flip4",0,Samsung,W14,03-04-2023,Vodafone,Vodafone
-212,New Line ,Airtime Plan ,Unlimited,Rate Plan Discount(Max),"Samsung 
-Galaxy Z Flip4",168,Samsung,W14,03-04-2023,Vodafone,Vodafone
-213,New Line ,Airtime Plan ,Unlimited,Merchandise ,"Samsung 
-Galaxy Z Flip4",84,Samsung,W14,03-04-2023,Vodafone,Vodafone
-214,New Line ,Airtime Plan ,Unlimited,Gift Card,"Samsung 
-Galaxy Z Flip4",0,Samsung,W14,03-04-2023,Vodafone,Vodafone
-215,New Line ,Airtime Plan ,Unlimited,Free Subscription ,"Samsung 
-Galaxy Z Flip4",335.7,Samsung,W14,03-04-2023,Vodafone,Vodafone
-216,New Line ,Airtime Plan ,Unlimited,Cashback,"Samsung 
-Galaxy Z Flip4",0,Samsung,W14,03-04-2023,Vodafone,Vodafone
-217,New Line ,Airtime Plan ,Unlimited,Trade-in Bump-up,"Samsung 
-Galaxy Z Flip4",0,Samsung,W14,03-04-2023,Vodafone,Vodafone
-218,New Line ,Airtime Plan ,Data ,Bundle ,"Samsung 
-Galaxy Z Flip4",0,Samsung,W14,03-04-2023,Vodafone,Vodafone
-219,New Line ,Airtime Plan ,Data ,Rate Plan Discount(Max),"Samsung 
-Galaxy Z Flip4",144,Samsung,W14,03-04-2023,Vodafone,Vodafone
-220,New Line ,Airtime Plan ,Data ,Merchandise ,"Samsung 
-Galaxy Z Flip4",84,Samsung,W14,03-04-2023,Vodafone,Vodafone
-221,New Line ,Airtime Plan ,Data ,Gift Card,"Samsung 
-Galaxy Z Flip4",0,Samsung,W14,03-04-2023,Vodafone,Vodafone
-222,New Line ,Airtime Plan ,Data ,Free Subscription ,"Samsung 
-Galaxy Z Flip4",335.7,Samsung,W14,03-04-2023,Vodafone,Vodafone
-223,New Line ,Airtime Plan ,Data ,Cashback,"Samsung 
-Galaxy Z Flip4",0,Samsung,W14,03-04-2023,Vodafone,Vodafone
-224,New Line ,Airtime Plan ,Data ,Trade-in Bump-up,"Samsung 
-Galaxy Z Flip4",0,Samsung,W14,03-04-2023,Vodafone,Vodafone
+210,New Line ,Phone Plan Amount,NULL,NULL,Samsung Galaxy Z Flip4,0,Samsung,W14,03-04-2023,Vodafone,Vodafone
+211,New Line ,Airtime Plan ,Unlimited,Bundle ,Samsung Galaxy Z Flip4,0,Samsung,W14,03-04-2023,Vodafone,Vodafone
+212,New Line ,Airtime Plan ,Unlimited,Rate Plan Discount(Max),Samsung Galaxy Z Flip4,168,Samsung,W14,03-04-2023,Vodafone,Vodafone
+213,New Line ,Airtime Plan ,Unlimited,Merchandise ,Samsung Galaxy Z Flip4,84,Samsung,W14,03-04-2023,Vodafone,Vodafone
+214,New Line ,Airtime Plan ,Unlimited,Gift Card,Samsung Galaxy Z Flip4,0,Samsung,W14,03-04-2023,Vodafone,Vodafone
+215,New Line ,Airtime Plan ,Unlimited,Free Subscription ,Samsung Galaxy Z Flip4,335.7,Samsung,W14,03-04-2023,Vodafone,Vodafone
+216,New Line ,Airtime Plan ,Unlimited,Cashback,Samsung Galaxy Z Flip4,0,Samsung,W14,03-04-2023,Vodafone,Vodafone
+217,New Line ,Airtime Plan ,Unlimited,Trade-in Bump-up,Samsung Galaxy Z Flip4,0,Samsung,W14,03-04-2023,Vodafone,Vodafone
+218,New Line ,Airtime Plan ,Data ,Bundle ,Samsung Galaxy Z Flip4,0,Samsung,W14,03-04-2023,Vodafone,Vodafone
+219,New Line ,Airtime Plan ,Data ,Rate Plan Discount(Max),Samsung Galaxy Z Flip4,144,Samsung,W14,03-04-2023,Vodafone,Vodafone
+220,New Line ,Airtime Plan ,Data ,Merchandise ,Samsung Galaxy Z Flip4,84,Samsung,W14,03-04-2023,Vodafone,Vodafone
+221,New Line ,Airtime Plan ,Data ,Gift Card,Samsung Galaxy Z Flip4,0,Samsung,W14,03-04-2023,Vodafone,Vodafone
+222,New Line ,Airtime Plan ,Data ,Free Subscription ,Samsung Galaxy Z Flip4,335.7,Samsung,W14,03-04-2023,Vodafone,Vodafone
+223,New Line ,Airtime Plan ,Data ,Cashback,Samsung Galaxy Z Flip4,0,Samsung,W14,03-04-2023,Vodafone,Vodafone
+224,New Line ,Airtime Plan ,Data ,Trade-in Bump-up,Samsung Galaxy Z Flip4,0,Samsung,W14,03-04-2023,Vodafone,Vodafone
 225,New Line ,Phone Plan Amount,NULL,NULL,Google Pixel 7,0,Google,W14,03-04-2023,Vodafone,Vodafone
 226,New Line ,Airtime Plan ,Unlimited,Bundle ,Google Pixel 7,179,Google,W14,03-04-2023,Vodafone,Vodafone
 227,New Line ,Airtime Plan ,Unlimited,Rate Plan Discount(Max),Google Pixel 7,0,Google,W14,03-04-2023,Vodafone,Vodafone
